@@ -157,7 +157,7 @@
     "turndown": "^5.0.1",
     "turndown-plugin-gfm": "^1.0.2",
     "underscore": "^1.9.1",
-    "vega": "^4.3.0",
+    "vega": "^5.17.3",
     "vega-embed": "^3.24.2",
     "vega-lite": "^3.0.0-rc8",
     "vue": "^2.5.17",
